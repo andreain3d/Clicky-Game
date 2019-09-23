@@ -8,7 +8,7 @@ function Header(props) {
         <li className="navbar-brand" id="brand">
           Clicky Game
         </li>
-        <li>Click an image to begin!</li>
+        <li>{props.message}</li>
         <li>
           Score: {props.score} | Top Score: {props.topscore}
         </li>
