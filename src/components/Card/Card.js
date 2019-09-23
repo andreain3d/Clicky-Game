@@ -1,10 +1,12 @@
 import React from "react";
 import "./cardStyle.css";
 
-function Card() {
+function Card(props) {
   return (
-    <div className="card" style={width: 18rem}>
-      <img src="..." className="card-img-top" alt="..."></img>
+    <div className="cat-card" onClick={() => props.userClicked(props.name)}>
+      <img src={props.src} className="cat-img" alt={props.name}></img>
     </div>
   );
 }
+
+export default Card;

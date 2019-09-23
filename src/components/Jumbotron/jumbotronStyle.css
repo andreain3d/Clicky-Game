@@ -1,0 +1,23 @@
+.jumbotron {
+  background: url("http://localhost:3000/images/bg.jpg");
+  padding-top: 200px;
+  padding-bottom: 100px;
+}
+
+.overlay {
+  background: rgba(255, 255, 255, 0.7);
+  padding: 20px 0px 20px;
+}
+
+h1 {
+  font-family: "Fugaz One", cursive;
+  text-shadow: 2px 2px #000;
+  color: #f18d73;
+}
+
+.lead {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 900;
+  color: #000;
+  text-shadow: 1px 1px #fff;
+}

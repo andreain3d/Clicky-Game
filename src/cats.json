@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Lime Cat",
+    "src": "./images/cat1.jpg"
+  },
+  {
+    "name": "Li'l Bub",
+    "src": "./images/cat2.jpg"
+  },
+  {
+    "name": "Grumpy Cat",
+    "src": "./images/cat3.jpg"
+  },
+  {
+    "name": "Keyboard Cat",
+    "src": "./images/cat4.jpeg"
+  },
+  {
+    "name": "Trash Cat",
+    "src": "./images/cat5.jpg"
+  },
+  {
+    "name": "Ceiling Cat",
+    "src": "./images/cat6.jpg"
+  },
+  {
+    "name": "Business Cat",
+    "src": "./images/cat7.jpg"
+  },
+  {
+    "name": "Smudge the Cat",
+    "src": "./images/cat8.jpg"
+  },
+  {
+    "name": "Country Roads Cat",
+    "src": "./images/cat9.jpg"
+  },
+  {
+    "name": "Space Cat",
+    "src": "./images/cat10.jpg"
+  },
+  {
+    "name": "Monorail Cat",
+    "src": "./images/cat11.jpg"
+  },
+  {
+    "name": "Happy Cat",
+    "src": "./images/cat12.jpg"
+  }
+]

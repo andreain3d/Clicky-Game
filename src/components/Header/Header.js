@@ -3,11 +3,15 @@ import "./headerStyle.css";
 
 function Header(props) {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+    <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-light">
       <ul className="navbar-nav mr-auto">
-        <li className="navbar-brand">Clicky Game</li>
+        <li className="navbar-brand" id="brand">
+          Clicky Game
+        </li>
         <li>Click an image to begin!</li>
-        <li>Score: 0 | Top Score: 0</li>
+        <li>
+          Score: {props.score} | Top Score: {props.topscore}
+        </li>
       </ul>
     </nav>
   );

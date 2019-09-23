@@ -1,8 +1,15 @@
 .footer {
   width: 100%;
-  background: purple;
+  background: #f18d73;
+  height: 120px;
+  border-top: 20px solid #f6cbc0;
+  margin-top: 20px;
 }
 
 .footer p {
+  font-family: "Fugaz One", cursive;
+  text-shadow: 2px 2px #fff;
+  color: #000;
+  font-size: 1.5em;
   padding: 20px;
 }

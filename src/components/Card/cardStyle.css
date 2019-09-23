@@ -1,0 +1,15 @@
+.cat-card {
+  border: 1px solid gray;
+  margin: 10px;
+  width: 200px;
+  box-shadow: 3px 3px 5px gray;
+  border-radius: 10px;
+  background: #fff;
+}
+
+.cat-img {
+  border-radius: 10px;
+  height: 200px;
+  width: 200px;
+  padding: 10px;
+}
