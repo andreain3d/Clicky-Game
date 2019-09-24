@@ -5,6 +5,11 @@
   box-shadow: 3px 3px 5px gray;
   border-radius: 10px;
   background: #fff;
+  transition: all 0.2s ease-in-out;
+}
+
+.cat-card:hover {
+  transform: scale(1.1);
 }
 
 .cat-img {
